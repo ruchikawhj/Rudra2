@@ -8,7 +8,7 @@ var canvas, angle, tower, ground, cannon;
 var balls = [];
 var monsters = [];
 var score = 0;
-
+    
 var monster1,monster2;
 
 function preload() {
